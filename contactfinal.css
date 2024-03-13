@@ -1,0 +1,91 @@
+*{
+    font-family: cursive;
+    margin: 0;
+
+    
+
+}
+#page{
+    background-color: #03081d;
+    padding-top: 22px;
+    padding-bottom:400px;
+   
+    
+}
+h4{
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 50px;
+    color: #9c4760;
+}
+#userinfo{
+    line-height:3.6;
+    padding-left: 30px;
+    font-size: 30px;
+    
+}
+input{
+    line-height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    color: white;
+    background-color: #03081d;
+    font-size: 15px;
+    
+}
+
+i{
+    padding: 30px;
+    color: grey;
+}
+.common{
+    
+    width: 600px;
+    margin-top: 10px;
+}
+#button{
+   margin-top: 50px;
+    margin-left: 70px;
+    width: 150px;
+    height: 50px;
+    box-shadow: 10px 10px black;
+    background-color: #03081d;;
+    color: white;
+    font-size: 20px;
+}
+#message{
+    height: 90px;
+    margin-top: 20px;
+}
+#map{
+    position: absolute;
+    display: block;
+    top: 0;
+    margin-left: 900px;
+    margin-top: 70px;
+    border: solid grey;
+    border-radius: 20px;
+}
+#contacting{
+    color: grey;
+    margin-left: 900px;
+    position: absolute;
+    top: 475px;
+}
+#follow{
+    float: left;
+}
+.highlight1{
+    color: rgb(221, 118, 118)}
+.visible{
+    color: red;
+    font-size: 14px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+   
+}    
+
+
+
